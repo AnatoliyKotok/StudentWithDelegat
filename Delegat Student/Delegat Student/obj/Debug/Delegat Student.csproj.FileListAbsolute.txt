@@ -1,0 +1,7 @@
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\bin\Debug\Delegat Student.exe.config
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\bin\Debug\Delegat Student.exe
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\bin\Debug\Delegat Student.pdb
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\obj\Debug\Delegat Student.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\obj\Debug\Delegat Student.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\obj\Debug\Delegat Student.exe
+C:\Users\Anatoliy\source\repos\Delegat Student\Delegat Student\obj\Debug\Delegat Student.pdb
